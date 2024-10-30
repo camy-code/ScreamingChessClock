@@ -13,8 +13,8 @@ window_height = 600
 
 
 
-clock1 = timer.Timer(True,2)
-clock2 = timer.Timer(False,2)
+clock1 = timer.Timer(True,1)
+clock2 = timer.Timer(False,1)
 pause = pause.Pause()
 
 
