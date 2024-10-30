@@ -18,9 +18,9 @@ class Timer:
         self.isFirst = isFirst # This corresponds to 
         self.state = 3
         self.color = "grey"
-        #self.seconds = float(int(minute) * 60)
+        self.seconds = float(int(minute) * 60)
 
-        self.seconds = minute
+        #self.seconds = minute
 
 
     def win(self):
