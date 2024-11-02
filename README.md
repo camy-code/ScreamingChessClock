@@ -7,7 +7,7 @@ This project implements a chess clock that screams whenever the turn changes jus
 Github [link](https://github.com/camy-code/ScreamingChessClock)
 
 
-## Project Motivation & Uniqueness
+
 
 ## Requirements
 
