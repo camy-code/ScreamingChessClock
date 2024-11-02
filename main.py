@@ -55,8 +55,7 @@ root.bind("<z>", on_key_pressZ)
 # The following is our table 
 
 # We need to create some variables
-left_time = tk.IntVar()
-left_time.set((10))
+
 
 # Create the first canvas
 canvas1 = tk.Canvas(root, width=int(window_width/2)-20, height=window_height, bg=clock1.getColor())
